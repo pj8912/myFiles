@@ -1,6 +1,20 @@
 # myFiles
-file storage mobile application view
+File storage mobile web application 
 
+## Get Started
+- Install 
+```
+git clone https://github.com/pj8912/myfiles
+```
+- Run
+``` 
+php -S localhost:4000
+```
+## Features and Functions
+- Upload File
+- View files in categories
+- Recently uploaded File appears on top
+- Categories include : Audio, Documents, Images, and Videos
 
 
 
